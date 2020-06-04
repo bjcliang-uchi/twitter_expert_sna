@@ -1,4 +1,4 @@
-# Social Network Analysis on Twitter-based Policy Expert Networks
+# Social Network Analysis: Twitter-based Policy Expert Networks
 Chen Liang
 
 ## Parallel Scraping
