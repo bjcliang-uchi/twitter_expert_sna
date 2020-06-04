@@ -12,6 +12,9 @@ Using S3 and PyWren to scrape at most 300 pages of tweets for each user
 **scrape_citations.ipynb**
 Automatically search each expert’s name on Google Scholar and save all search results. I then manually match experts to search results based on their past experience.
 
+**files in get_expert_data**
+Scraped through each think tank's staff/expert page to obtain a list of policy experts.
+
 ## Data Integration
 **check_account.ipynb**
 This notebook integrates different sources of data and checks if any user needs to be rescraped. I rescrape an user if the total numbers of follower/ following accounts we obtain are significantly different from the true numbers of followers/ following accounts based on the user profile information.
